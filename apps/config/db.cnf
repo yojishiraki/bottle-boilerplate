@@ -1,0 +1,13 @@
+[prod]
+host = localhost
+port = 5432
+user = postgres
+password = type_your_password
+database = type_your_database
+
+[develop]
+host = localhost
+port = 5432
+user = postgres
+password = type_your_password
+database = type_your_database
